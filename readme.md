@@ -1,0 +1,1 @@
+This a repository of my notes on learning responsive layouts. The resource I'm using is Kevin's Powell Free Course. Here's a link: https://courses.kevinpowell.co/conquering-responsive-layouts
